@@ -1,5 +1,4 @@
-# Matterport SDK 2021 Tutorial
-_Written by LE TEXIER Loic for [Meister Guild](https://m-gild.com)_
+# Matterport SDK Refernced Tutorial
 
 ## Install
 Install the Node.js modules:
@@ -25,5 +24,5 @@ Try the samples:
 ## Tutorial
 This is the backup of the Tutorial I wrote on Qiita:
 
-- [English](tutorial.md)
-- [日本語](チュートリアル.md)
+- [English](tutorial.md) //this file is loaded with the project file
+
